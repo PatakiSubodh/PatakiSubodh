@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **C, HTML, Python**
 
-- 📫 How to reach me **rpsubodh22@gmail.com**
+- 📫 How to reach me **patakisubodh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
