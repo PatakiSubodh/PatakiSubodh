@@ -26,12 +26,13 @@
 ### 🛠️ Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,nextjs,vite,django,supabase,html,css,c,swift,androidstudio,docker,gcp,postman,figma,git,linux,windows&perline=11" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,c,swift,html,css,react,nextjs,nodejs,vite,tailwind,fastapi,django,supabase,opencv,androidstudio,docker,gcp,vercel,githubactions,postman,git,figma,linux,windows&perline=13" alt="tech stack" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
 
 ---
