@@ -5,8 +5,6 @@
   <a href="https://beacons.ai/subodhpataki"><img src="https://img.shields.io/badge/Links-beacons.ai-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="beacons" /></a>
   <a href="https://x.com/subodhPataki"><img src="https://img.shields.io/badge/X-@subodhPataki-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://linkedin.com/in/subodhpataki"><img src="https://img.shields.io/badge/LinkedIn-subodhpataki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/subodh.dat"><img src="https://img.shields.io/badge/Instagram-subodh.dat-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://kaggle.com/patakisubodh"><img src="https://img.shields.io/badge/Kaggle-patakisubodh-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="mailto:patakisubodh@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
