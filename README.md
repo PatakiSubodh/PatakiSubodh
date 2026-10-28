@@ -1,39 +1,81 @@
-<h1 align="center">Hi 👋, I'm Subodh R Pataki</h1>
-<h3 align="center">A passionate programmer, frontend developer and graphic designer from India</h3>
+<h1 align="center">Hi 👋, I'm Subodh Pataki</h1>
+<h3 align="center">Building and breaking rn · Desktop apps, web apps and security tooling from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patakisubodh&label=Profile%20views&color=0e75b6&style=flat" alt="patakisubodh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patakisubodh" alt="patakisubodh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/subodhpataki" target="blank"><img src="https://img.shields.io/twitter/follow/subodhpataki?logo=twitter&style=for-the-badge" alt="subodhpataki" /></a> </p>
-
-- 🔭 I’m currently working on [tik tac toe](https://github.com/PatakiSubodh/tik_tac_toe_Console_game.git)
-
-- 🌱 I’m currently learning **React(JavaScript library)**
-
-- 👯 I’m looking to collaborate on [JARVIS_python](https://github.com/PatakiSubodh/Jarvis_py.git)
-
-- 🤝 I’m looking for help with [JARVIS_GUI](https://github.com/PatakiSubodh/jarvisGUI.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/PatakiSubodh](https://github.com/PatakiSubodh)
-
-- 💬 Ask me about **C, HTML, Python**
-
-- 📫 How to reach me **patakisubodh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/subodhpataki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subodhpataki" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subodh pataki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subodh pataki" height="30" width="40" /></a>
-<a href="https://kaggle.com/patakisubodh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="patakisubodh" height="30" width="40" /></a>
-<a href="https://instagram.com/subodh.dat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subodh.dat" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://beacons.ai/subodhpataki"><img src="https://img.shields.io/badge/Links-beacons.ai-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="beacons" /></a>
+  <a href="https://x.com/subodhPataki"><img src="https://img.shields.io/badge/X-@subodhPataki-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://linkedin.com/in/subodhpataki"><img src="https://img.shields.io/badge/LinkedIn-subodhpataki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/subodh.dat"><img src="https://img.shields.io/badge/Instagram-subodh.dat-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://kaggle.com/patakisubodh"><img src="https://img.shields.io/badge/Kaggle-patakisubodh-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="mailto:patakisubodh@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=patakisubodh&label=Profile%20views&color=f28c28&style=flat" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patakisubodh&show_icons=true&locale=en&layout=compact" alt="patakisubodh" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patakisubodh&show_icons=true&locale=en" alt="patakisubodh" /></p>
+### 🍊 Right now
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patakisubodh&" alt="patakisubodh" /></p>
+- 🔭 Working on **[Open Tangerine](https://github.com/sintaxerrorpvtltd/Open-Tangerine)**, a free, open-source local file converter. Native macOS app plus a Windows/Linux desktop edition (0.3.0) with a glass format wheel, a drag wheel from Explorer, 24 editing tools, and multi-file to A4 PDF or Word. No account and no uploads.
+- 🛡️ Building **[ASPM](https://github.com/PatakiSubodh/ASPM)**, an Application Security Posture Management tool. It connects vulnerable code to the production assets it exposes, stores that as a graph, and ranks each finding by real-world risk.
+- 🤖 Contributing to **[open-source-agents](https://github.com/PatakiSubodh/open-source-agents)**, a community collection of practical AI agents and developer tools.
+- 💬 Ask me about **Python, TypeScript, React, desktop apps and app security**
+
+---
+
+### 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,nextjs,vite,django,supabase,html,css,c,swift,androidstudio,docker,gcp,postman,figma,git,linux,windows&perline=11" alt="tech stack" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
+</p>
+
+---
+
+### 📌 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Open Tangerine**](https://github.com/sintaxerrorpvtltd/Open-Tangerine) | Local file converter and toolbox for macOS, Windows and Linux | Swift · Python |
+| [**ASPM**](https://github.com/PatakiSubodh/ASPM) | Links vulnerable code to exposed production assets and ranks findings by risk | TypeScript |
+| [**schedAI**](https://github.com/PatakiSubodh/schedAI) | Timetable generator that uses a genetic algorithm to meet hard and soft constraints | Python · Django |
+| [**QuickRent**](https://github.com/PatakiSubodh/quickRent) | Gadget rental platform ([live](https://quickrent-indol.vercel.app/)) | HTML · CSS · JS |
+| [**auth-todo**](https://github.com/PatakiSubodh/auth-todo) | Todo app with authentication, soft delete and filters | React · Supabase |
+| [**Sticky-HR**](https://github.com/PatakiSubodh/Sticky-HR) | HR tool web app | React · Vite |
+| [**hand-gesture-volume-control**](https://github.com/PatakiSubodh/hand-gesture-volume-control) | Controls system volume with hand gestures from a webcam | Python · OpenCV |
+| [**Jarvis_py**](https://github.com/PatakiSubodh/Jarvis_py) | Voice assistant | Python |
+
+---
+
+### 🐍 Contribution graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatakiSubodh/PatakiSubodh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PatakiSubodh/PatakiSubodh/output/github-snake.svg" />
+    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/PatakiSubodh/PatakiSubodh/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PatakiSubodh&show_icons=true&hide_border=true&theme=transparent&title_color=f28c28&icon_color=f28c28" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=PatakiSubodh&layout=compact&hide_border=true&theme=transparent&title_color=f28c28" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PatakiSubodh&hide_border=true&theme=transparent&ring=f28c28&fire=f28c28&currStreakLabel=f28c28" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=PatakiSubodh&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
+</p>
